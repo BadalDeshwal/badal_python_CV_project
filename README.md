@@ -24,7 +24,9 @@ href=
 be</a>
 <li><a href=
 "https://github.com/shapeai">GitHub</a>
-  <br>
-  <br> <a href="https://github.com/BadalDeshwal/badal_python_CV_project.git)"> project link</a>
-
+<br>
+<br> <a href="https://github.com/BadalDeshwal/badal_python_CV_project.git"> CLICK HERE TO HAVE A VIEW AT MY PROJECT</a>
+<br>
+<br>OR BROWSE THROUGH THE LINK BELOW...
+<br> https://github.com/BadalDeshwal/badal_python_CV_project.git
 
