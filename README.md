@@ -49,5 +49,6 @@ be</a>
 <li><a href=
 
 "https://github.com/shapeai">GitHub</a>
+  <br>  https://github.com/BadalDeshwal/badal_python_CV_project.git         ..................project link
 
 
